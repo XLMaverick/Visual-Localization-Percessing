@@ -1,3 +1,0 @@
-/home/yxl/github/Visual-Localization-Percessing-Homework/Histogram_specialization/build/CMakeFiles/edit_cache.dir
-/home/yxl/github/Visual-Localization-Percessing-Homework/Histogram_specialization/build/CMakeFiles/rebuild_cache.dir
-/home/yxl/github/Visual-Localization-Percessing-Homework/Histogram_specialization/build/CMakeFiles/Histogram_specialization.dir

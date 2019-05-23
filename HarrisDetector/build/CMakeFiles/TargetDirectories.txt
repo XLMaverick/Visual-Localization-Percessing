@@ -1,3 +1,0 @@
-/home/yxl/github/Visual-Localization-Percessing-Homework/HarrisDetector/build/CMakeFiles/rebuild_cache.dir
-/home/yxl/github/Visual-Localization-Percessing-Homework/HarrisDetector/build/CMakeFiles/edit_cache.dir
-/home/yxl/github/Visual-Localization-Percessing-Homework/HarrisDetector/build/CMakeFiles/HarrisDetector.dir
